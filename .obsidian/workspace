@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "49155c2ecff853c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98eb3050bf8cebd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2021-10-13.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "756663672ace69b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a4a6e80aec4c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07fdfd7e3381290c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2be2c15f5e06636b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "binomial theorem",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "395170710f4a094f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "bdb1b3dba27c6d36",
+    "type": "split",
+    "children": [
+      {
+        "id": "927d61c907096876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9d0e535d995c0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2021-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "00c40d1935ebbe12",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a3ccefdb9d42c46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journals/2021-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "88adbbc8307bddff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journals/2021-10-13.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecfa5d3993e1043e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4e3deb49012c80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295,
+    "collapsed": true
+  },
+  "active": "b98eb3050bf8cebd",
+  "lastOpenFiles": [
+    "journals/2021-10-13.md",
+    "pages/Electricity and Magnetism.md",
+    "MOC/⚙ Engineering-Science MOC.md",
+    "MOC/💡 Interests MOC.md",
+    "MOC/🔢 Math MOC.md",
+    "MOC/♎ Concepts MOC.md",
+    "MOC/🏗️ Projects MOC.md",
+    "pages/Collision Detection.md",
+    "pages/Embedded Systems.md",
+    "journals/2021_10_07.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "fileSortOrder": "byModifiedTime",
+  "spellcheckDictionary": [
+    "resistive",
+    "Borosilicate",
+    "Differentiability"
+  ]
+}
