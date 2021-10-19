@@ -1,6 +1,5 @@
 [
   "obsidian-mind-map",
-  "obsidian-spaced-repetition",
   "url-into-selection",
   "obsidian-excalidraw-plugin",
   "better-word-count",
@@ -9,5 +8,7 @@
   "obsidian-emoji-toolbar",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-admonition",
-  "quick-latex"
+  "quick-latex",
+  "smart-random-note",
+  "flashcards-obsidian"
 ]

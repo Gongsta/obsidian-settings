@@ -12,6 +12,12 @@
   "spellcheckDictionary": [
     "resistive",
     "Borosilicate",
-    "Differentiability"
-  ]
+    "Differentiability",
+    "suprachiasmatic",
+    "nonnegative",
+    "invariants",
+    "Optimality",
+    "Orthonormal"
+  ],
+  "vimMode": true
 }

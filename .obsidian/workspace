@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b98eb3050bf8cebd",
+        "id": "b2b7d6baf9796a9d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021-10-13.md",
+            "file": "pages/Planning.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "8f50bb0fa6f92154"
+      },
+      {
+        "id": "8ac6c73eb547eda3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Planning.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8f50bb0fa6f92154"
       }
     ],
     "direction": "vertical"
@@ -39,8 +52,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binomial theorem",
-                "matchingCase": false,
+                "query": "\\sum",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2021-10-13.md",
+                "file": "pages/Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,20 +101,12 @@
             }
           },
           {
-            "id": "00c40d1935ebbe12",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "3a3ccefdb9d42c46",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2021-10-13.md",
+                "file": "pages/Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,11 +118,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2021-10-13.md"
+                "file": "pages/Planning.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ecfa5d3993e1043e",
@@ -141,17 +147,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "b98eb3050bf8cebd",
+  "active": "b2b7d6baf9796a9d",
   "lastOpenFiles": [
-    "journals/2021-10-13.md",
-    "pages/Electricity and Magnetism.md",
+    "pages/Planning.md",
+    "pages/Insertion Sort.md",
+    "pages/Algorithms.md",
+    "templates/insert-real.md",
+    "templates/insert-set 1.md",
+    "templates/insert-set.md",
+    "templates/insert-set 1 1.md",
+    "pages/Configuration Space.md",
     "MOC/⚙ Engineering-Science MOC.md",
-    "MOC/💡 Interests MOC.md",
-    "MOC/🔢 Math MOC.md",
-    "MOC/♎ Concepts MOC.md",
-    "MOC/🏗️ Projects MOC.md",
-    "pages/Collision Detection.md",
-    "pages/Embedded Systems.md",
-    "journals/2021_10_07.md"
+    "MOC/🔢 Math MOC.md"
   ]
 }
