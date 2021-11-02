@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b7d6baf9796a9d",
+        "id": "722087aca8d9a355",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Planning.md",
+            "file": "pages/Vim.md",
             "mode": "source"
           }
-        },
-        "group": "8f50bb0fa6f92154"
-      },
-      {
-        "id": "8ac6c73eb547eda3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Planning.md",
-            "mode": "preview"
-          }
-        },
-        "group": "8f50bb0fa6f92154"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\sum",
-                "matchingCase": true,
+                "query": "genetic algorithm",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Planning.md",
+                "file": "pages/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Planning.md",
+                "file": "pages/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,12 +105,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Planning.md"
+                "file": "pages/Vim.md"
               }
             }
+          },
+          {
+            "id": "0140149d30b92181",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "178a3fe1015d0ac3",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ecfa5d3993e1043e",
@@ -144,20 +146,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295,
-    "collapsed": true
+    "width": 295
   },
-  "active": "b2b7d6baf9796a9d",
+  "active": "722087aca8d9a355",
   "lastOpenFiles": [
-    "pages/Planning.md",
-    "pages/Insertion Sort.md",
-    "pages/Algorithms.md",
-    "templates/insert-real.md",
-    "templates/insert-set 1.md",
-    "templates/insert-set.md",
-    "templates/insert-set 1 1.md",
-    "pages/Configuration Space.md",
-    "MOC/⚙ Engineering-Science MOC.md",
-    "MOC/🔢 Math MOC.md"
+    "pages/Vim.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Physics for Scientists and Engineers_ A Strategic Approach with Modern Physics-Pearson (2016).pdf",
+    "attachments/Physics for Scientists and Engineers - An Interactive Approach 1.pdf",
+    "attachments/Physics for Scientists and Engineers - An Interactive Approach.pdf",
+    "pages/Function.md",
+    "pages/Differential.md",
+    "pages/Derivative.md",
+    "pages/Derivative Rules.md",
+    "pages/Calculus.md"
   ]
 }

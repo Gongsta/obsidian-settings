@@ -23,14 +23,7 @@
       "key": "F2"
     }
   ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
+  "switcher:open": [],
   "file-explorer:new-file-in-new-pane": [
     {
       "modifiers": [
@@ -88,6 +81,15 @@
       "modifiers": [
         "Mod",
         "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
       ],
       "key": "T"
     }
